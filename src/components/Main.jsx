@@ -64,7 +64,7 @@ export default function Main() {
                     <img
                         src={memeData.memeImg}
                         alt="Meme"
-                        className=" mx-auto"
+                        className="w-full h-auto"
                     />
                     <h2 className="memeText top-0 mt-2">
                         {memeData.topText}
